@@ -18,16 +18,16 @@ const subTitulo: string = 'Compartimos con ustedes nuestra experiencia en estos 
 
 
 const clientes:Array<string> = [
-    'public/avon.png',
-    'public/banco-amazonas.png',
-    'public/ccca.png',
-    'public/cnt.png',
-    'public/comandato.png',
-    'public/datatools.png',
-    'public/delbank.png',
-    'public/kapital-one.png',
-    'public/orange.png',
-    'public/procash.png',
+    './public/avon.png',
+    './public/banco-amazonas.png',
+    './public/ccca.png',
+    './public/cnt.png',
+    './public/comandato.png',
+    './public/datatools.png',
+    './public/delbank.png',
+    './public/kapital-one.png',
+    './public/orange.png',
+    './public/procash.png',
     ]
     
 </script>
