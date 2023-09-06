@@ -88,7 +88,6 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
   color:  var(--blanco);
   font-size: 2rem;
   margin: 0;
-  font-family: cursive;
 }
 
 .footer-container h3 span{

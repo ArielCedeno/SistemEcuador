@@ -99,6 +99,7 @@ animaBoton.value = 'animate__animated animate__bounce'
     padding: 0;
     margin-left: 2.3px;
     /* margin-top: 5rem; */
+    top: 22%;
   }
 
   .banner .titulo h1 {
@@ -128,6 +129,7 @@ animaBoton.value = 'animate__animated animate__bounce'
     width: 100%;
     padding: 0;
     /* margin-top: 10rem; */
+    top: 25%;
   }
 
   .banner .titulo h1 {

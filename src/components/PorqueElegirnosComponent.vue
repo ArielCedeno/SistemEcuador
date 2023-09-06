@@ -112,7 +112,7 @@ const beneficioKpi: BeneficioKpi[] = [
   .titulo{
     width: 50%;
     display: flex;
-    flex-flow: column;
+    flex-direction: column;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -135,7 +135,8 @@ const beneficioKpi: BeneficioKpi[] = [
 }
 .caja{
   display: flex;
-  flex-flow: column wrap;
+  flex-direction: column;
+  flex-wrap: wrap;
   width: 45%;
   height: auto;
   padding: 2rem;
@@ -170,7 +171,8 @@ const beneficioKpi: BeneficioKpi[] = [
   }
 
   .banner{
-    flex-flow: column wrap;
+    flex-direction: column;
+    flex-wrap: wrap;
     width: 100%;
   }
   .banner .titulo{
@@ -185,7 +187,8 @@ const beneficioKpi: BeneficioKpi[] = [
   }
 
   .contenido{
-    flex-flow: column wrap;
+    flex-direction: column;
+    flex-wrap: wrap;
   }
 
   .contenido .caja{
@@ -211,7 +214,8 @@ const beneficioKpi: BeneficioKpi[] = [
 
   .contenido{
     width: 95%;
-    flex-flow: column wrap;
+    flex-direction: column;
+    flex-wrap: wrap;
   }
 
   .contenido .caja{

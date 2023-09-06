@@ -13,22 +13,22 @@
 </template>
 
 <script lang="ts" setup>
+import avon from '@/assets/marcas/avon.png'
+import basa from '@/assets/marcas/banco-amazonas.png'
+import ccca from '@/assets/marcas/ccca.png'
+import cnt from '@/assets/marcas/cnt.png'
+import comandato from '@/assets/marcas/comandato.png'
+import datatools from '@/assets/marcas/datatools.png'
+import delbank from '@/assets/marcas/delbank.png'
+import kapitalOne from '@/assets/marcas/kapital-one.png'
+import orange from '@/assets/marcas/orange.png'
+import procash from '@/assets/marcas/procash.png'
+
 const titulo: string = 'Nuestra experiencia'
 const subTitulo: string = 'Compartimos con ustedes nuestra experiencia en estos 7 años de servicio.'
 
 
-const clientes:Array<string> = [
-    './public/avon.png',
-    './public/banco-amazonas.png',
-    './public/ccca.png',
-    './public/cnt.png',
-    './public/comandato.png',
-    './public/datatools.png',
-    './public/delbank.png',
-    './public/kapital-one.png',
-    './public/orange.png',
-    './public/procash.png',
-    ]
+const clientes:Array<string> = [ avon, basa, ccca, cnt, comandato, datatools, delbank, kapitalOne, orange, procash]
     
 </script>
 

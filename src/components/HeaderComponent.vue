@@ -46,7 +46,6 @@ const toggleMenu = () => {
   color:  var(--blanco);
   font-size: 1.5rem;
   margin: 0;
-  font-family: cursive;
 }
 
 .logo span{
